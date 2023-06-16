@@ -5,5 +5,5 @@ Yet another routes handling utility on top of Hunchentoot.
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/mmontone/easy-routes.git  |
 | commit  | 17fc471                                          |
-| systems | easy-routes easy-routes+errors easy-routes+djula |
+| systems | easy-routes easy-routes+errors                   |
 |---------+--------------------------------------------------|
