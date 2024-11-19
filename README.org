@@ -4,6 +4,6 @@ Yet another routes handling utility on top of Hunchentoot.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/mmontone/easy-routes.git |
-| commit  | 3617baa                                         |
+| commit  | dda1dec                                         |
 | systems | easy-routes easy-routes+errors                  |
 |---------+-------------------------------------------------|
