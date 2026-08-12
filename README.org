@@ -7,3 +7,4 @@ Yet another routes handling utility on top of Hunchentoot.
 | commit  | b476a5b                                         |
 | systems | easy-routes easy-routes+errors                  |
 |---------+-------------------------------------------------|
+ 
